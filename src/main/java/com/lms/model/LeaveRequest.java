@@ -46,8 +46,3 @@ public class LeaveRequest {
 
     private Date reviewedDate;
 }
-
-// Enum for Leave Status
-enum LeaveStatus {
-    PENDING, APPROVED, REJECTED
-}
